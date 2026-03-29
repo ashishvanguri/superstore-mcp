@@ -1,0 +1,7 @@
+mcp
+fastmcp
+pandas
+botocore
+fastapi
+uvicorn
+matplotlib
